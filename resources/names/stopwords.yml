@@ -107,7 +107,7 @@ PERSON_NAME_PREFIXES:
   - "HRH"
   - "His Higness"
   - "Her Higness"
-  # Aristocratic titles
+  # Aristocratic titles — unnumbered
   - "Lord"
   - "Lady"
   - "Dame"
@@ -117,6 +117,8 @@ PERSON_NAME_PREFIXES:
   - "Countess"
   - "Sr"
   - "Sir"
+  # Aristocratic titles — numbered
+  Please see resources/names/noble_titles_with_numbers 
   # Religious titles
   - "The Reverend"
   - "Reverend"
